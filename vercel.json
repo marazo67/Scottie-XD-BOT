@@ -1,10 +1,10 @@
 {
   "functions": {
-    "bot.js": {
+    "Bot.js": {
       "maxDuration": 10
     }
   },
   "rewrites": [
-    { "source": "/(.*)", "destination": "/bot.js" }
+    { "source": "/(.*)", "destination": "/Bot.js" }
   ]
 }
