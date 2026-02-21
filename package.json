@@ -1,0 +1,11 @@
+{
+  "name": "Sᴄᴏᴛᴛɪᴇ KɪɪᴅRsA-XD",
+  "version": "1.0.0",
+  "description": "TAKING OVER (H&M) HERandME",
+  "main": "api/bot.js",
+  "dependencies": {
+    "telegraf": "^4.12.2",
+    "axios": "^1.4.0",
+    "qrcode": "^1.5.1"
+  }
+}
