@@ -5,6 +5,6 @@
     }
   },
   "rewrites": [
-    { "source": "/(.*)", "destination": "/api/bot.js" }
+    { "source": "/(.*)", "destination": "/bot.js" }
   ]
 }
