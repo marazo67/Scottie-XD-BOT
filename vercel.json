@@ -1,6 +1,6 @@
 {
   "functions": {
-    "api/bot.js": {
+    "bot.js": {
       "maxDuration": 10
     }
   },
